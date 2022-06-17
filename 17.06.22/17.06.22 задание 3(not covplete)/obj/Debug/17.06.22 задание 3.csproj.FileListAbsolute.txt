@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\bin\Debug\17.06.22 задание 3.exe.config
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\bin\Debug\17.06.22 задание 3.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\bin\Debug\17.06.22 задание 3.pdb
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\obj\Debug\17.06.22 задание 3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\obj\Debug\17.06.22 задание 3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\obj\Debug\17.06.22 задание 3.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\17.06.22\17.06.22 задание 3\obj\Debug\17.06.22 задание 3.pdb
