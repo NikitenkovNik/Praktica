@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\bin\Debug\20.06.22 Задание 2.exe.config
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\bin\Debug\20.06.22 Задание 2.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\bin\Debug\20.06.22 Задание 2.pdb
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\20.06.22 Задание 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\_20._06._22_Задание_2.Form1.resources
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\_20._06._22_Задание_2.Properties.Resources.resources
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\20.06.22 Задание 2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\20.06.22 Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\20.06.22 Задание 2.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\20.06.22\20.06.22 Задание 2\obj\Debug\20.06.22 Задание 2.pdb
