@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\bin\Debug\15.06.22 Задание 5.exe.config
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\bin\Debug\15.06.22 Задание 5.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\bin\Debug\15.06.22 Задание 5.pdb
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\obj\Debug\15.06.22 Задание 5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\obj\Debug\15.06.22 Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\obj\Debug\15.06.22 Задание 5.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\15.06.22\15.06.22 Задание 5\obj\Debug\15.06.22 Задание 5.pdb
