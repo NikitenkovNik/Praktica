@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\wpfapap\bin\Debug\wpfapap.exe.config
+C:\Users\user\source\repos\wpfapap\bin\Debug\wpfapap.exe
+C:\Users\user\source\repos\wpfapap\bin\Debug\wpfapap.pdb
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\wpfapap\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\wpfapap\obj\Debug\App.g.cs
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap_MarkupCompile.cache
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap_MarkupCompile.lref
+C:\Users\user\source\repos\wpfapap\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.g.resources
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.Properties.Resources.resources
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.csproj.GenerateResource.cache
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.exe
+C:\Users\user\source\repos\wpfapap\obj\Debug\wpfapap.pdb
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\bin\Debug\wpfapap.exe.config
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\bin\Debug\wpfapap.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\bin\Debug\wpfapap.pdb
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap_MarkupCompile.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap_MarkupCompile.lref
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.g.resources
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.Properties.Resources.resources
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.exe
+C:\Users\user\Desktop\Practica\Nikitenkov\28.06.22\28.06.22 Задание 1\obj\Debug\wpfapap.pdb
